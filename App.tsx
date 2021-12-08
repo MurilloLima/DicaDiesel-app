@@ -6,7 +6,7 @@ import { WebView } from 'react-native-webview';
 export default function App() {
   return (
     <WebView style={styles.container}
-      source={{ uri: 'http://www.exsol.com.br/' }}
+      source={{ uri: 'https://dicadiesel.com.br/' }}
     >
     </WebView>
   );
